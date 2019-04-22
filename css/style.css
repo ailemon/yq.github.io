@@ -1950,11 +1950,3 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     .social-links li a:hover {
         opacity: 1;
     }
-
-
-@font-face {
-	font-family:fz;
-	src: url('../font/cyjhk.ttf');
-}
-
-
